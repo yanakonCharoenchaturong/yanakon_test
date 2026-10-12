@@ -6,7 +6,7 @@ Aunaun Ze
 # Our favorite things
 Dog 
 ## Favorite food
-pizza kfc
+pizza coconut
 
 ทำยังไงต่อค้า 
 ## About Us
@@ -15,3 +15,4 @@ Hello
 ช่วยด้วย
 
 zeeeee
+
